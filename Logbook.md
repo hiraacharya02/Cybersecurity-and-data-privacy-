@@ -3,9 +3,11 @@
 
 | Date  | Used hours | Subject(s) | Outcome(s) |
 | :--- | :---: | :---: | :---: |
-| 02.11.2025 | 2 | Course setup and overview | Enrolled and explored course materials on Cisco Networking Academy |
-| 04.11.2025 | 3 | Cybersecurity fundamentals | Studied key concepts, global trends, and basic threat types |
-| 06.11.2025 | 6 | Modules 1–3 | Completed first modules; learned about attack types, security principles, and online safety |
-| 07.11.2025 | 5 | Modules 4–5 | Finished modules on protecting data, privacy, and network security |
-| 08.11.2025 | 3 | Final exam | Completed course exam and reviewed results |
-| 08.11.2025 | 2 | Logbook and GitHub submission | Created and uploaded logbook to GitHub for assignment submission |
+| 28.10.2025 | 2 | Cybersecurity and Data Privacy Online class | Attended online lecture; discussed course introduction, cybersecurity basics, and upcoming tasks |
+| 02.11.2025 | 2 | Course setup and overview | Enrolled in Cisco Networking Academy and explored course structure |
+| 04.11.2025 | 2 | Cybersecurity and Data Privacy Online class | Attended online lecture; learned about data privacy principles and security practices |
+| 04.11.2025 | 5 | Cybersecurity fundamentals | Studied key concepts, global cyber threats, and security principles |
+| 06.11.2025 | 6 | Modules 1–3 | Completed first three modules; learned about attacks, defenses, and personal online safety |
+| 07.11.2025 | 5 | Modules 4–5 | Finished modules on protecting data, privacy, and securing networks |
+| 08.11.2025 | 4 | Final exam | Completed and passed the final exam successfully |
+| 08.11.2025 | 3 | Logbook and GitHub submission | Created and uploaded logbook to GitHub for assignment submission |
