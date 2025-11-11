@@ -11,3 +11,4 @@
 | 07.11.2025 | 5 | Modules 4–5 | Finished modules on protecting data, privacy, and securing networks |
 | 08.11.2025 | 4 | Final exam | Completed and passed the final exam successfully |
 | 08.11.2025 | 3 | Logbook and GitHub submission | Created and uploaded logbook to GitHub for assignment submission |
+| 11.11.2025 | 2 | Cybersecurity and Data Privacy Online class | learned about Booking system project |
