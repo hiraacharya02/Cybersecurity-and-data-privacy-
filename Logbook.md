@@ -20,3 +20,7 @@
 | 18.11.2025 | 3 | Access Control Lab 2 | Completed “Unprotected admin functionality with unpredictable URL” |
 | 18.11.2025 | 4 | Assignment reflections & submission | Wrote reflections, finalized assignment, updated GitHub logbook |
 | 18.11.2025 | 2 | Cybersecurity and Data Privacy Online class | learned about do assignment of Booking system project, portswigger |
+| 21.11.2025 | 2 | ZAP & Docker tutorials | Watched YouTube tutorials and practiced basic scanning and container handling to understand the tools better |
+| 22.11.2025 | 5 | ZAP tool & Docker setup | Worked together on setting up ZAP, exploring its features, and configuring Docker Desktop for the project |
+| 27.11.2025 | 3 | Booking system lecture (recorded) | Followed the recorded lecture and practiced running the booking system container for the upcoming tasks |
+| 28.11.2025 | 3 | Assignment submission | Finalized Phase 1 – Part 1 and updated my work after reviewing everything with the group |
