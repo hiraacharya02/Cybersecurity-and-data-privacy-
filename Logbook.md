@@ -24,3 +24,5 @@
 | 22.11.2025 | 5 | ZAP tool & Docker setup | Worked together on setting up ZAP, exploring its features, and configuring Docker Desktop for the project |
 | 27.11.2025 | 3 | Booking system lecture (recorded) | Followed the recorded lecture and practiced running the booking system container for the upcoming tasks |
 | 28.11.2025 | 3 | Assignment submission | Finalized Phase 1 – Part 1 and updated my work after reviewing everything with the group |
+| 01.12.2025 | 2 | Intro to the booking system phase 1 -> part 2 (recorded lecture) | Ran both phase 1 and phase 2 in docker container |
+| 02.12.2025 | 4 | Reporting findings and fixes to the development team | Made a detailed report to the development regarding the new zap scan outcomes |
