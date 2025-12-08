@@ -26,3 +26,5 @@
 | 28.11.2025 | 3 | Assignment submission | Finalized Phase 1 – Part 1 and updated my work after reviewing everything with the group |
 | 01.12.2025 | 2 | Intro to the booking system phase 1 -> part 2 (recorded lecture) | Ran both phase 1 and phase 2 in docker container |
 | 02.12.2025 | 4 | Reporting findings and fixes to the development team | Made a detailed report to the development regarding the new zap scan outcomes |
+| 07.12.2025 | 4 | Password cracking recorded video; hydra and hashcat setup | followed password cracking video to setup the required tools and files |
+| 08.11.2025 | 4 | Cracked 5 passwords | sucessfully cracked passwords and aslo wrote a report|
