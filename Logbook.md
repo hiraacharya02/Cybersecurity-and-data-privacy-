@@ -27,4 +27,10 @@
 | 01.12.2025 | 2 | Intro to the booking system phase 1 -> part 2 (recorded lecture) | Ran both phase 1 and phase 2 in docker container |
 | 02.12.2025 | 4 | Reporting findings and fixes to the development team | Made a detailed report to the development regarding the new zap scan outcomes |
 | 07.12.2025 | 4 | Password cracking recorded video; hydra and hashcat setup | followed password cracking video to setup the required tools and files |
-| 08.11.2025 | 4 | Cracked 5 passwords | sucessfully cracked passwords and aslo wrote a report|
+| 08.12.2025 | 4 | Cracked 5 passwords | sucessfully cracked passwords and aslo wrote a report|
+| 15.12.2025 | 2 | Intro to authentication recorded video | Known about authentication |
+| 16.12.2025 | 2 | Intro to authorization recorded video | Known about authorizaton and phae 3 task |
+| 17.12.2025 | 1 | GDPR recorded video | Known about GDPR (personal data, privacy policy, terms of service, cookie policy) |
+| 18.12.2025 | 3 | Phase 3 authorization test | Performed the authorization test with different roles (guest, reserver, admin), ZAP scan report and test using wfuzz |
+| 18.12.2025 | 1 | Phase 4 assignment | Updated GDPR checklist, added app's privacy policy, Terms of servie, and cookie policy |
+
