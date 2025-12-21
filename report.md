@@ -1,6 +1,3 @@
-# PortSwigger, Booking System Project & Logbook  
-**Individual Assignment**
-
 ## PortSwigger
 
 ### Completed Labs
@@ -29,4 +26,10 @@
 #### Access Control Vulnerabilities
 - Unprotected admin functionality  
 - Unprotected admin functionality with unpredictable URL  
+
+
+### Screenshot 
+
+<img width="864" height="573" alt="image" src="https://github.com/user-attachments/assets/c61cf6e5-691b-4753-8515-9c8c548a3d7d" />
+
 
