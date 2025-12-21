@@ -120,7 +120,16 @@ How legal compliance and cybersecurity are closely connected.
 
 The booking system project helped me apply theoretical cybersecurity knowledge to a practical application. I learned how to use tools like Docker and OWASP ZAP to identify and analyze vulnerabilities. Testing authentication, authorization, and GDPR compliance showed how security and privacy must be integrated into application design. Writing reports and documenting findings also improved my technical communication skills, which are essential in cybersecurity work.
 
+# Logbook
 
+## Git Repository
+GitHub repository link:  https://github.com/hiraacharya02/Cybersecurity-and-data-privacy-.git
+
+
+### Total Hours
+#### Total hours spent: 88 hours ####  
+#### Hours per topic: https://github.com/hiraacharya02/Cybersecurity-and-data-privacy-/blob/main/Logbook.md
+---
 
 
 
