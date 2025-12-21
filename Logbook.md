@@ -34,6 +34,4 @@
 | 18.12.2025 | 3 | Phase 3 authorization test | Performed the authorization test with different roles (guest, reserver, admin), ZAP scan report and test using wfuzz |
 | 18.12.2025 | 1 | Phase 4 assignment | Updated GDPR checklist, added app's privacy policy, Terms of servie, and cookie policy |
 | 21.12.2025 | 5 | Final individual assignment | Worked on my individual assignment, updated PortSwigger and booking system sections, wrote reflections, and finalized the logbook and GitHub submission |
-|
-
 
